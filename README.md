@@ -7,6 +7,8 @@ NIM: 09011382530141
 Kelas : SKU3A
 
 
+
+
 1. Lihat peralatan I/O, character device, yang ada pada sistem komputer.
 
 <img width="800" height="600" alt="Screenshot 2026-09-30 151405" src="https://github.com/user-attachments/assets/8bd524fd-fa7b-47af-94f5-a01ac1e0ed6d" />
