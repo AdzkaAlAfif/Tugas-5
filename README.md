@@ -1,8 +1,8 @@
 # Tugas-5
 
-#Nama : M.Adzka Al-Afif
-#NIM: 09011382530141
-#Kelas : SKU3A
+Nama : M.Adzka Al-Afif
+NIM: 09011382530141
+Kelas : SKU3A
 
 
 1. Lihat peralatan I/O, character device, yang ada pada sistem komputer.
